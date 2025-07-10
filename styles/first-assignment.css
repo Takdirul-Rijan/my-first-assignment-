@@ -12,3 +12,16 @@
       color: #4a48f4;
       font-family: 'Inter', sans-serif;
     }
+
+    /* Banner */
+    .banner {
+      text-align: center;
+      padding: 100px 20px;
+      background-image: url('../images/Hero-bg.png');
+      background-size: cover;
+    }
+    .banner h1 {
+      font-size: 32px;
+      margin-bottom: 20px;
+      font-family: 'Raleway', sans-serif;
+    }
