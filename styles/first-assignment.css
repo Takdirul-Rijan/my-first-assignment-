@@ -25,3 +25,31 @@
       margin-bottom: 20px;
       font-family: 'Raleway', sans-serif;
     }
+
+    /* Action Section */
+    .action {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 60px 40px;
+      gap: 40px;
+    }
+    .action-text {
+      max-width: 50%;
+    }
+    .action h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+      font-family: 'Raleway', sans-serif;
+      font-family: 'Raleway', sans-serif
+    }
+    .action p {
+      margin-bottom: 20px;
+      color: #666;
+      font-family: 'Raleway', sans-serif;
+    }
+    .action-img img {
+      width: 100%;
+      max-width: 400px;
+      border-radius: 15px;
+    }
